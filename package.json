@@ -5,7 +5,7 @@
     "react-scripts": "^5.0.0"
   },
   "main": "/index.js",
-  "devDependencies": {},
+  "devDependencies": {}, 
   "name": "7thh9p",
   "description": null,
   "version": "0.0.0",
